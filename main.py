@@ -5,7 +5,7 @@ import streamlit as st
 
 
 def main():
-    st.title("Login Form Severin")
+    st.title("Login Form Severin in github")
     username = st.text_input("Username")
     password = st.text_input("Password", type="password")
     login_button = st.button("Login")
